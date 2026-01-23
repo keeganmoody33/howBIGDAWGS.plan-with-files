@@ -55,6 +55,7 @@ See [docs/installation.md](docs/installation.md) for all installation methods.
 | Claude Code | ✅ Full Support | [Installation](docs/installation.md) | Plugin + SKILL.md |
 | Gemini CLI | ✅ Full Support | [Gemini Setup](docs/gemini.md) | Agent Skills |
 | Cursor | ✅ Full Support | [Cursor Setup](docs/cursor.md) | Skills |
+| Continue | ✅ Full Support | [Continue Setup](docs/continue.md) | Skills + Prompt files |
 | Kilocode | ✅ Full Support | [Kilocode Setup](docs/kilocode.md) | Skills |
 | OpenCode | ✅ Full Support | [OpenCode Setup](docs/opencode.md) | Personal/Project Skill |
 | Codex | ✅ Full Support | [Codex Setup](docs/codex.md) | Personal Skill |
@@ -73,6 +74,7 @@ See [docs/installation.md](docs/installation.md) for all installation methods.
 | [Troubleshooting](docs/troubleshooting.md) | Common issues and solutions |
 | [Gemini CLI Setup](docs/gemini.md) | Google Gemini CLI integration guide |
 | [Cursor Setup](docs/cursor.md) | Cursor IDE-specific instructions |
+| [Continue Setup](docs/continue.md) | Continue integration guide (skills + slash prompt) |
 | [Windows Setup](docs/windows.md) | Windows-specific notes |
 | [Kilo Code Support](docs/kilocode.md) | Kilo Code integration guide |
 | [Codex Setup](docs/codex.md) | Codex IDE installation and usage |
